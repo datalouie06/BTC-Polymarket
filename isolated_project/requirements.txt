@@ -1,0 +1,1 @@
+# Offline-compatible: pipeline uses Python stdlib in this environment.
